@@ -23,8 +23,8 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 * **Outcome:** Delivered data-driven recommendations for targeted marketing campaigns to increase membership conversion.
 
 **View Project:**
-* 📂 [**Repository & Source Code**]([template])
-* 📊 [**Full Report (PDF)**]([template]) | [**Markdown Report**]([template])
+* 📂 [**Repository & Source Code**](https://github.com/Ro98ert/Cyclistic-Case-Study/tree/9482472e8549580c6943634c1e8f6ef25238e1aa/Analysis/Scripts)
+* 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/9482472e8549580c6943634c1e8f6ef25238e1aa/Reports/Cyclistic_Analysis_Markdown.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/9482472e8549580c6943634c1e8f6ef25238e1aa/Reports/Cyclistic_Markdown.md)
 
 ### 2. Bellabeat Smart Device Usage Analysis
 **Objective:** Analyze health data from smart devices to detect trends and inform marketing strategies for a women's wellness company.
