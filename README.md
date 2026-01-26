@@ -33,8 +33,8 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 * **Outcome:** Provided actionable recommendations for app feature development and user engagement strategies.
 
 **View Project:**
-* 📂 [**Repository & Source Code**]([template])
-* 📊 [**Full Report (PDF)**]([template]) | [**Markdown Report**]([template])
+* 📂 [**Repository & Source Code**](https://github.com/Ro98ert/Bellabeat-Case-Study/tree/4d259aff70fb9254fc63d080026f184beabf2063/Analysis/Scripts)
+* 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Bellabeat-Case-Study/blob/4d259aff70fb9254fc63d080026f184beabf2063/Reports/Bellabeat_Case_Study.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Bellabeat-Case-Study/blob/4d259aff70fb9254fc63d080026f184beabf2063/Reports/Bellabeat_Report.md)
 
 ## Contact & Links
 
