@@ -42,4 +42,4 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 * **Email:** robert.amartisoaei.98@gmail.com
 * **LinkedIn:** [Robert Amartisoaei](https://www.linkedin.com/in/robert-a-lnkdn98/)
 * **Resume:** [Download PDF](https://drive.google.com/file/d/12Gv_xglybBOAwbElY_DwBIdPrByiFttk/view?usp=sharing)
-* **Certification:** [Google Data Analytics Professional Certificate]([template])
+* **Certification:** [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UYX53RG7IQ1W)
