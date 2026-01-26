@@ -18,7 +18,7 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 
 ### 1. Cyclistic Bike-Share Analysis
 **Objective:** Analyze usage patterns of casual riders versus annual members to identify conversion opportunities.
-* **Tech Stack:** SQL, R, Tableau, Spreadsheets.
+* **Tech Stack:** SQL, R, Spreadsheets.
 * **Key Actions:** Processed 12 months of trip data, engineered features for ride duration/timing, and identified distinct behavioral segments.
 * **Outcome:** Delivered data-driven recommendations for targeted marketing campaigns to increase membership conversion.
 
