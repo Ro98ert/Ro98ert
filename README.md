@@ -18,7 +18,7 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 
 ### 1. Cyclistic Bike-Share Analysis
 **Objective:** Analyze usage patterns of casual riders versus annual members to identify conversion opportunities.
-* **Tech Stack:** SQL, R, Spreadsheets.
+* **Tech Stack:** R, Spreadsheets.
 * **Key Actions:** Processed 12 months of trip data, engineered features for ride duration/timing, and identified distinct behavioral segments.
 * **Outcome:** Delivered data-driven recommendations for targeted marketing campaigns to increase membership conversion.
 
@@ -28,7 +28,7 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 
 ### 2. Bellabeat Smart Device Usage Analysis
 **Objective:** Analyze health data from smart devices to detect trends and inform marketing strategies for a women's wellness company.
-* **Tech Stack:** R (Tidyverse, ggplot2), R Markdown.
+* **Tech Stack:** SQL, R (Tidyverse, ggplot2), R Markdown.
 * **Key Actions:** Cleaned daily/hourly Fitbit data, analyzed correlations between activity, sleep, and caloric burn, and audited data quality (non-wear days).
 * **Outcome:** Provided actionable recommendations for app feature development and user engagement strategies.
 
