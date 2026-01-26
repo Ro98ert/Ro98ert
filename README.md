@@ -41,5 +41,5 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 * **Location:** Timisoara, Romania
 * **Email:** robert.amartisoaei.98@gmail.com
 * **LinkedIn:** [Robert Amartisoaei](https://www.linkedin.com/in/robert-a-lnkdn98/)
-* **Resume:** [Download PDF]([template])
+* **Resume:** [Download PDF](https://drive.google.com/file/d/12Gv_xglybBOAwbElY_DwBIdPrByiFttk/view?usp=sharing)
 * **Certification:** [Google Data Analytics Professional Certificate]([template])
