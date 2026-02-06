@@ -24,7 +24,7 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 
 **View Project:**
 * 📂 [**Repository & Source Code**](https://github.com/Ro98ert/Social-Media-User-Analysis/tree/f4e9f6c62092cb1bdfdb9c7f5555eea5f817889a/Scripts)
-* 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/9482472e8549580c6943634c1e8f6ef25238e1aa/Reports/Cyclistic_Analysis_Markdown.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/9482472e8549580c6943634c1e8f6ef25238e1aa/Reports/Cyclistic_Markdown.md)
+* 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/f4e9f6c62092cb1bdfdb9c7f5555eea5f817889a/Reports/Social_Media_Analysis.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/9482472e8549580c6943634c1e8f6ef25238e1aa/Reports/Cyclistic_Markdown.md)
 
 ### 2. Bellabeat Smart Device Usage Analysis
 **Objective:** Analyze health data from smart devices to detect trends and inform marketing strategies for a women's wellness company.
