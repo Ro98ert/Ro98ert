@@ -43,7 +43,7 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 * **Outcome:** Identified that heavy usage correlates with high stress (0.83) but not sleep loss, leading to a recommendation to prioritize anxiety management tools over sleep trackers.
 
 **View Project:**
-* 📂 [**Repository & Source Code**](https://github.com/Ro98ert/Bellabeat-Case-Study/tree/4d259aff70fb9254fc63d080026f184beabf2063/Analysis/Scripts)
+* 📂 [**Repository & Source Code**](https://github.com/Ro98ert/Social-Media-User-Analysis/tree/f4e9f6c62092cb1bdfdb9c7f5555eea5f817889a/Scripts)
 * 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Bellabeat-Case-Study/blob/4d259aff70fb9254fc63d080026f184beabf2063/Reports/Bellabeat_Case_Study.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Bellabeat-Case-Study/blob/4d259aff70fb9254fc63d080026f184beabf2063/Reports/Bellabeat_Report.md)
 ## Contact & Links
 
