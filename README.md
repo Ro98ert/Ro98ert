@@ -44,7 +44,8 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 
 **View Project:**
 * 📂 [**Repository & Source Code**](https://github.com/Ro98ert/Social-Media-User-Analysis/tree/f4e9f6c62092cb1bdfdb9c7f5555eea5f817889a/Scripts)
-* 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/f4e9f6c62092cb1bdfdb9c7f5555eea5f817889a/Reports/Social_Media_Analysis.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Bellabeat-Case-Study/blob/4d259aff70fb9254fc63d080026f184beabf2063/Reports/Bellabeat_Report.md)
+* 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/f4e9f6c62092cb1bdfdb9c7f5555eea5f817889a/Reports/Social_Media_Analysis.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/f19282d8f6ba3feb0aed5d124487f868fdfd139a/Reports/Social_Media_Analysis_Markdown.md)
+
 ## Contact & Links
 
 * **Location:** Timisoara, Romania
