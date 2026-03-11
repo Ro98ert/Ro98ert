@@ -1,4 +1,4 @@
-# Data Analytics Portfolio — Robert Amartisoaei
+# Portfolio — Robert Amartisoaei
 
 ## Overview
 Electrical Engineer transitioned into Data Analytics and Artificial Intelligence. Possesses three years of experience in telecommunications testing, system validation, and performance monitoring. Demonstrates proven capability to clean, analyze, and interpret complex datasets utilizing SQL, R, and Tableau. Certified in Google Data Analytics and Google AI.
