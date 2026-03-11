@@ -22,7 +22,7 @@ Electrical Engineer transitioned into Data Analytics and Artificial Intelligence
 
 **View Project:**
 * 📂 [**Repository & Source Code**](https://github.com/Ro98ert/Cyclistic-Case-Study/tree/c039b52a969d733f4fd27adf770a9b4a8a6a6032/Analysis/Scripts)
-* 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/c039b52a969d733f4fd27adf770a9b4a8a6a6032/Reports/Cyclistic_Analysis_Markdown.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/c039b52a969d733f4fd27adf770a9b4a8a6a6032/Reports/Cyclistic_Analysis_Markdown.pdf)
+* 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/c039b52a969d733f4fd27adf770a9b4a8a6a6032/Reports/Cyclistic_Analysis_Markdown.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/c039b52a969d733f4fd27adf770a9b4a8a6a6032/Reports/Cyclistic_Markdown.md)
 
 ### 2. Bellabeat Smart Device Usage Analysis
 **Objective:** Analyze health data from smart devices to detect trends and inform marketing strategies for a women's wellness company.
