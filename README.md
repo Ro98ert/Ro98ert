@@ -1,18 +1,16 @@
 # Data Analytics Portfolio — Robert Amartisoaei
 
 ## Overview
-Welcome to my Data Analytics Portfolio. I am an Electrical Engineer transitioned into Data Analytics, leveraging a background in telecommunications testing, validation, and performance monitoring to solve business problems.
-
-This portfolio demonstrates my ability to clean, analyze, and interpret complex datasets using **SQL**, **R**, and **Tableau**. Below are selected case studies that translate technical findings into actionable strategic insights.
+Electrical Engineer transitioned into Data Analytics and Artificial Intelligence. Possesses three years of experience in telecommunications testing, system validation, and performance monitoring. Demonstrates proven capability to clean, analyze, and interpret complex datasets utilizing SQL, R, and Tableau. Certified in Google Data Analytics and Google AI.
 
 ## Technical Skills
 
 | Domain | Tools & Competencies |
 | :--- | :--- |
-| **Analytics** | **SQL** (Joins, CTEs, Aggregations), **R** (Tidyverse, ggplot2, Data Cleaning) |
-| **Visualization** | **Tableau** (Dashboards, Storytelling), **Excel/Sheets** (Pivot Tables) |
-| **Engineering** | Telecom Hardware Validation, Network Traffic Monitoring, Systems Analysis |
-| **Soft Skills** | Cross-functional Communication, Technical Documentation, Strategic Problem Solving |
+| **Data Analytics** | **SQL**, **R**, BigQuery, Excel, Data Cleaning, Statistical Analysis |
+| **Artificial Intelligence** | Prompt Engineering, AI for Data Analysis, AI App Building |
+| **Visualization** | Tableau, *ggplot2*, Dashboard Creation |
+| **Engineering** | Telecom Hardware Validation, Signal Processing, Root-Cause Analysis |
 
 ## Featured Case Studies
 
@@ -28,7 +26,7 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 
 ### 2. Bellabeat Smart Device Usage Analysis
 **Objective:** Analyze health data from smart devices to detect trends and inform marketing strategies for a women's wellness company.
-* **Tech Stack:** SQL, R (Tidyverse, ggplot2), R Markdown.
+* **Tech Stack:** SQL (BigQuery), R (Tidyverse, ggplot2), R Markdown.
 * **Key Actions:** Cleaned daily/hourly Fitbit data, analyzed correlations between activity, sleep, and caloric burn, and audited data quality (non-wear days).
 * **Outcome:** Provided actionable recommendations for app feature development and user engagement strategies.
 
@@ -51,5 +49,7 @@ This portfolio demonstrates my ability to clean, analyze, and interpret complex 
 * **Location:** Timisoara, Romania
 * **Email:** robert.amartisoaei.98@gmail.com
 * **LinkedIn:** [Robert Amartisoaei](https://www.linkedin.com/in/robert-a-lnkdn98/)
-* **Resume:** [Download PDF](https://drive.google.com/file/d/12Gv_xglybBOAwbElY_DwBIdPrByiFttk/view?usp=sharing)
-* **Certification:** [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UYX53RG7IQ1W)
+* **Resume:** [PDF](https://drive.google.com/file/d/12Gv_xglybBOAwbElY_DwBIdPrByiFttk/view?usp=sharing)
+* **Certification:**
+  * [Google Data Analytics Professional Certificate](https://coursera.org/share/b74f5f0ca78efa58531cd79c3c097b75)
+  * [Google AI Professional Certificate](https://coursera.org/share/310d1ca4d4dd5824430a7e50e072ae90)
