@@ -49,7 +49,7 @@ Electrical Engineer transitioned into Data Analytics and Artificial Intelligence
 * **Location:** Timisoara, Romania
 * **Email:** robert.amartisoaei.98@gmail.com
 * **LinkedIn:** [Robert Amartisoaei](https://www.linkedin.com/in/robert-a-lnkdn98/)
-* **Resume:** [PDF](https://drive.google.com/file/d/12Gv_xglybBOAwbElY_DwBIdPrByiFttk/view?usp=sharing)
+* **Resume:** [PDF](https://drive.google.com/file/d/13Hok0nKZqVneN18Q4fIVzqlNLK7SWhUS/view?usp=sharing)
 * **Certification:**
   * [Google Data Analytics Professional Certificate](https://coursera.org/share/b74f5f0ca78efa58531cd79c3c097b75)
   * [Google AI Professional Certificate](https://coursera.org/share/310d1ca4d4dd5824430a7e50e072ae90)
