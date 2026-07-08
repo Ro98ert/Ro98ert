@@ -13,7 +13,7 @@ Systems Test Technician turned data analyst, now moving toward software and test
 | Domain | Tools & Competencies |
 |---|---|
 | Data Analytics | SQL, R, BigQuery, Excel, Data Cleaning, Statistical Analysis |
-| Artificial Intelligence | Prompt Engineering, AI for Data Analysis, AI App Building |
+| Artificial Intelligence | AI for Data Analysis, AI App Building (in progress) |
 | Visualization | Tableau, ggplot2, Dashboard Creation |
 | Test Automation (in progress) | Python, Test Scripting |
 | AI-Assisted Development | Claude Code, Prompt Engineering, Agentic Workflows |
@@ -60,13 +60,6 @@ Key actions:
 **Outcome:** Heavy usage correlates with high stress (0.83) but not sleep loss, which led to recommending anxiety-management tools over sleep trackers.
 
 📂 [Repository & Source Code](https://github.com/Ro98ert/Social-Media-User-Analysis) · [Full Report (PDF)](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/main/Reports/Social_Media_Analysis.pdf) · [Markdown Report](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/main/Reports/Social_Media_Analysis_Markdown.md)
-
-## GitHub Stats
-
-![Followers](https://img.shields.io/github/followers/Ro98ert?label=Followers&style=flat)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ro98ert&label=Public%20Repos&query=$.public_repos&style=flat)
-
-Full activity and repo breakdown: [github.com/Ro98ert](https://github.com/Ro98ert?tab=repositories)
 
 ## Certifications
 
