@@ -1,55 +1,60 @@
 # Portfolio — Robert Amartisoaei
 
 ## Overview
-Electrical Engineer transitioned into Data Analytics and Artificial Intelligence. Possesses three years of experience in telecommunications testing, system validation, and performance monitoring. Demonstrates proven capability to clean, analyze, and interpret complex datasets utilizing SQL, R, and Tableau. Certified in Google Data Analytics and Google AI.
+
+Systems Test Technician turned data analyst, now moving toward software and test automation. Four years validating telecom hardware at Flex (Nokia project), tracing root causes in signal and system faults. Applying that same troubleshooting mindset to data now: cleaning it, querying it, and drawing conclusions that hold up. Google-certified in Data Analytics and AI, currently working through the Advanced Data Analytics certificate, with test automation and AI-assisted development next.
 
 ## Technical Skills
 
 | Domain | Tools & Competencies |
-| :--- | :--- |
-| **Data Analytics** | **SQL**, **R**, BigQuery, Excel, Data Cleaning, Statistical Analysis |
-| **Artificial Intelligence** | Prompt Engineering, AI for Data Analysis, AI App Building |
-| **Visualization** | Tableau, *ggplot2*, Dashboard Creation |
-| **Engineering** | Telecom Hardware Validation, Signal Processing, Root-Cause Analysis |
+|---|---|
+| Data Analytics | SQL, R, BigQuery, Excel, Data Cleaning, Statistical Analysis |
+| Artificial Intelligence | Prompt Engineering, AI for Data Analysis, AI App Building |
+| Visualization | Tableau, ggplot2, Dashboard Creation |
+| Test Automation (in progress) | Python, Git, Test Scripting |
+| Engineering | Telecom Hardware Validation, Signal Processing, Root-Cause Analysis |
 
 ## Featured Case Studies
 
 ### 1. Cyclistic Bike-Share Analysis
-**Objective:** Analyze usage patterns of casual riders versus annual members to identify conversion opportunities.
-* **Tech Stack:** R, Spreadsheets.
-* **Key Actions:** Processed 12 months of trip data, engineered features for ride duration/timing, and identified distinct behavioral segments.
-* **Outcome:** Delivered data-driven recommendations for targeted marketing campaigns to increase membership conversion.
+**Objective:** Compare casual riders vs. annual members to find what drives conversion.
+**Tech Stack:** R, Spreadsheets.
+**Key Actions:** Processed 12 months of trip data, engineered ride duration/timing features, identified distinct behavioral segments.
+**Outcome:** Data-driven recommendations for a targeted membership-conversion campaign.
 
-**View Project:**
-* 📂 [**Repository & Source Code**](https://github.com/Ro98ert/Cyclistic-Case-Study/tree/c039b52a969d733f4fd27adf770a9b4a8a6a6032/Analysis/Scripts)
-* 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/c039b52a969d733f4fd27adf770a9b4a8a6a6032/Reports/Cyclistic_Analysis_Markdown.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/c039b52a969d733f4fd27adf770a9b4a8a6a6032/Reports/Cyclistic_Markdown.md)
+📂 [Repository & Source Code](https://github.com/Ro98ert/Cyclistic-Case-Study) · [Full Report (PDF)](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/main/Reports/Cyclistic_Analysis_Markdown.pdf) · [Markdown Report](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/main/Reports/Cyclistic_Markdown.md)
 
 ### 2. Bellabeat Smart Device Usage Analysis
-**Objective:** Analyze health data from smart devices to detect trends and inform marketing strategies for a women's wellness company.
-* **Tech Stack:** SQL (BigQuery), R (Tidyverse, ggplot2), R Markdown.
-* **Key Actions:** Cleaned daily/hourly Fitbit data, analyzed correlations between activity, sleep, and caloric burn, and audited data quality (non-wear days).
-* **Outcome:** Provided actionable recommendations for app feature development and user engagement strategies.
+**Objective:** Analyze smart-device health data to guide marketing strategy for a women's wellness company.
+**Tech Stack:** SQL (BigQuery), R (Tidyverse, ggplot2), R Markdown.
+**Key Actions:** Cleaned daily/hourly Fitbit data, correlated activity, sleep, and caloric burn, audited data quality for non-wear days.
+**Outcome:** Actionable recommendations for app features and user engagement.
 
-**View Project:**
-* 📂 [**Repository & Source Code**](https://github.com/Ro98ert/Bellabeat-Case-Study/tree/4d259aff70fb9254fc63d080026f184beabf2063/Analysis/Scripts)
-* 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Bellabeat-Case-Study/blob/4d259aff70fb9254fc63d080026f184beabf2063/Reports/Bellabeat_Case_Study.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Bellabeat-Case-Study/blob/4d259aff70fb9254fc63d080026f184beabf2063/Reports/Bellabeat_Report.md)
+📂 [Repository & Source Code](https://github.com/Ro98ert/Bellabeat-Case-Study) · [Full Report (PDF)](https://github.com/Ro98ert/Bellabeat-Case-Study/blob/main/Reports/Bellabeat_Case_Study.pdf) · [Markdown Report](https://github.com/Ro98ert/Bellabeat-Case-Study/blob/main/Reports/Bellabeat_Report.md)
 
-### 3. Social Media Usage & Mental Well-beng Analysis
-**Objective:** Quantify the impact of intensive Instagram usage on mental health metrics (Stress, Happiness, Sleep) to optimize a digital wellness product roadmap.
-* **Tech Stack:** SQL (BigQuery), Tableau.
-* **Key Actions:** Ingested and cleaned 1.55 million synthetic user records, performed statistical correlation analysis in SQL, and developed dashboards revealing generational stress trends.
-* **Outcome:** Identified that heavy usage correlates with high stress (0.83) but not sleep loss, leading to a recommendation to prioritize anxiety management tools over sleep trackers.
+### 3. Social Media Usage & Mental Well-being Analysis
+**Objective:** Quantify how intensive Instagram usage relates to stress, happiness, and sleep, to inform a digital wellness product roadmap.
+**Tech Stack:** SQL (BigQuery), Tableau.
+**Key Actions:** Ingested and cleaned 1.55M synthetic user records, ran statistical correlation analysis in SQL, built dashboards on generational stress trends.
+**Outcome:** Heavy usage correlates with high stress (0.83) but not sleep loss, which led to recommending anxiety-management tools over sleep trackers.
 
-**View Project:**
-* 📂 [**Repository & Source Code**](https://github.com/Ro98ert/Social-Media-User-Analysis/tree/f4e9f6c62092cb1bdfdb9c7f5555eea5f817889a/Scripts)
-* 📊 [**Full Report (PDF)**](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/f4e9f6c62092cb1bdfdb9c7f5555eea5f817889a/Reports/Social_Media_Analysis.pdf) | [**Markdown Report**](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/f19282d8f6ba3feb0aed5d124487f868fdfd139a/Reports/Social_Media_Analysis_Markdown.md)
+📂 [Repository & Source Code](https://github.com/Ro98ert/Social-Media-User-Analysis) · [Full Report (PDF)](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/main/Reports/Social_Media_Analysis.pdf) · [Markdown Report](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/main/Reports/Social_Media_Analysis_Markdown.md)
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ro98ert&show_icons=true&theme=default&hide_border=true&count_private=false" alt="Robert's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ro98ert&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
+</p>
+
+## Certifications
+
+![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=flat&logo=google&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=flat&logo=google&logoColor=white)
+![In Progress](https://img.shields.io/badge/In%20Progress-Advanced%20Data%20Analytics-yellow?style=flat)
 
 ## Contact & Links
 
-* **Location:** Timisoara, Romania
-* **Email:** robert.amartisoaei.98@gmail.com
-* **LinkedIn:** [Robert Amartisoaei](https://www.linkedin.com/in/robert-a-lnkdn98/)
-* **Resume:** [PDF](https://drive.google.com/file/d/13Hok0nKZqVneN18Q4fIVzqlNLK7SWhUS/view?usp=sharing)
-* **Certification:**
-  * [Google Data Analytics Professional Certificate](https://coursera.org/share/b74f5f0ca78efa58531cd79c3c097b75)
-  * [Google AI Professional Certificate](https://coursera.org/share/310d1ca4d4dd5824430a7e50e072ae90)
+- **Location:** Timișoara, Romania
+- **Email:** robert.amartisoaei.98@gmail.com
+- **LinkedIn:** [Robert Amartisoaei](https://www.linkedin.com/in/robert-a-lnkdn98)
