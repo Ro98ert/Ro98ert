@@ -42,10 +42,10 @@ Systems Test Technician turned data analyst, now moving toward software and test
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ro98ert&show_icons=true&theme=default&hide_border=true&count_private=false" alt="Robert's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ro98ert&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
-</p>
+![Followers](https://img.shields.io/github/followers/Ro98ert?label=Followers&style=flat)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Ro98ert&label=Public%20Repos&query=$.public_repos&style=flat)
+
+Full activity and repo breakdown: [github.com/Ro98ert](https://github.com/Ro98ert?tab=repositories)
 
 ## Certifications
 
