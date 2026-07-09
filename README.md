@@ -72,4 +72,4 @@ Key actions:
 - **Location:** Timișoara, Romania
 - **Email:** robert.amartisoaei.98@gmail.com
 - **LinkedIn:** [Robert Amartisoaei](https://www.linkedin.com/in/robert-a-lnkdn98)
-- **Resume:** PDF
+- **Resume:** [PDF](https://drive.google.com/file/d/1Nwg1zYfi8rexGNrt9BC1EH788LnKrub4/view?usp=drive_link)
