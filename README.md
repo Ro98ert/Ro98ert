@@ -21,6 +21,21 @@ System Test Technician working toward a transition into data analytics and softw
 | Version Control | Git, GitHub |
 | Engineering | Telecom Hardware Validation, Signal Processing, Root-Cause Analysis |
 
+## Featured Software Projects
+
+### 1. Cabinetly — SaaS Booking Platform
+**Objective:** Simple online booking system for independent practitioners (kinetoterapeuți, psihologi, nutriționiști) — reduce no-shows and manual scheduling overhead for small independent practices.
+**Tech Stack:** Next.js 15, TypeScript, PostgreSQL (Supabase), Prisma, Tailwind CSS, shadcn/ui.
+
+Key actions:
+- Designed a multi-tenant architecture with database-enforced tenant isolation via PostgreSQL Row Level Security (FORCE RLS across 18+ tables)
+- Built a public booking flow with secure reschedule/cancel token links, Google Calendar sync, and automated transactional email notifications
+- Developed end-to-end using AI-assisted development (Claude Code) as primary coding workflow
+
+**Outcome:** Production-shaped multi-tenant SaaS with RLS-enforced data isolation, shipped as a public portfolio showcase.
+
+📂 [Repository & Source Code](https://github.com/Ro98ert/cabinetly-saas)
+
 ## Featured Case Studies
 
 ### 1. Cyclistic Bike-Share Analysis
