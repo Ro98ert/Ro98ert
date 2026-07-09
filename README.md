@@ -61,6 +61,19 @@ Key actions:
 
 📂 [Repository & Source Code](https://github.com/Ro98ert/Social-Media-User-Analysis) · [Full Report (PDF)](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/main/Reports/Social_Media_Analysis.pdf) · [Markdown Report](https://github.com/Ro98ert/Social-Media-User-Analysis/blob/main/Reports/Social_Media_Analysis_Markdown.md)
 
+### 4. Neurobehavioral Factors in Eating Disorders
+**Objective:** Identify neurobehavioral drivers most associated with self-perceived eating disorder status among university students, and test whether an interpretable model can support screening.
+**Tech Stack:** R (logistic regression, ROC/AUC), Tidyverse.
+
+Key actions:
+- Built composite domain scores (emotional eating, cognitive restraint) from 550 survey responses
+- Ran bivariate testing and logistic regression with out-of-sample validation
+- Evaluated model at 76.5% accuracy (78.7% sensitivity, 77.8% precision)
+
+**Outcome:** Identified interpretable predictors of ED perception suitable for screening-oriented decision support, not diagnosis.
+
+📂 [Repository & Source Code](https://github.com/Ro98ert/Neurobehavioral-Factors-in-Eating-Disorders-Study) · [Full Report (PDF)](https://github.com/Ro98ert/Neurobehavioral-Factors-in-Eating-Disorders-Study/blob/main/reports/Neurobehavioral_Factors_in_E._D._Markdown.pdf)
+
 ## Certifications
 
 ![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=flat&logo=google&logoColor=white)
