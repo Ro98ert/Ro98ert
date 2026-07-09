@@ -2,11 +2,12 @@
 
 ## Overview
 
-Systems Test Technician turned data analyst, now moving toward software and test automation. Four years validating telecom hardware at Flex (Nokia project), tracing root causes in signal and system faults. Applying that same troubleshooting mindset to data now: cleaning it, querying it, and drawing conclusions that hold up.
+System Test Technician working toward a transition into data analytics and software development. Four years validating telecom hardware at Flex (Nokia project), tracing root causes in signal and system faults — applying that same troubleshooting mindset to data and code on the side.
 
-- 4 years in telecom hardware validation and root-cause analysis (Flex, Nokia project)
-- Google-certified in Data Analytics and AI, currently working through the Advanced Data Analytics certificate
-- Building toward test automation and AI-assisted development, using Claude Code as a daily coding and learning partner
+- Currently a System Test Technician: 4 years in telecom hardware validation and root-cause analysis (Flex, Nokia project)
+- Completed 2 Google Data Analytics certificate courses alongside the job, producing 4 end-to-end case studies
+- Building software with AI-assisted development in parallel with the day job, using Claude Code as a daily coding and learning partner
+- Long-term goal: move from test engineering into data analytics / software development
 
 ## Technical Skills
 
