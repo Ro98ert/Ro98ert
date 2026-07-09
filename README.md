@@ -33,7 +33,7 @@ Key actions:
 
 **Outcome:** Data-driven recommendations for a targeted membership-conversion campaign.
 
-📂 [Repository & Source Code](https://github.com/Ro98ert/Cyclistic-Case-Study) · [Full Report (PDF)](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/main/Reports/Cyclistic_Analysis_Markdown.pdf) · [Markdown Report](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/main/Reports/Cyclistic_Markdown.md)
+📂 [Repository & Source Code](https://github.com/Ro98ert/Cyclistic-Case-Study) · [Full Report (PDF)](https://github.com/Ro98ert/Cyclistic-Case-Study/releases/download/v1.0-report/Cyclistic_Analysis_Markdown.pdf) · [Markdown Report](https://github.com/Ro98ert/Cyclistic-Case-Study/blob/main/Reports/Cyclistic_Markdown.md)
 
 ### 2. Bellabeat Smart Device Usage Analysis
 **Objective:** Analyze smart-device health data to guide marketing strategy for a women's wellness company.
