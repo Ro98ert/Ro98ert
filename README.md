@@ -1,26 +1,39 @@
 # Robert Amartisoaei
 
-I'm a System Test Technician. For four years I've validated telecom hardware at Flex (Nokia project) and traced failures back to their root cause. Software is what I build on the side: Android apps first, web apps too, and anything else worth learning.
+**I turn a real-world problem into a working app: Android and web, built fast with AI coding agents and checked by tests.**
 
-I build TrueRide with AI coding agents. I also set up and maintain the agent configuration on my own Linux machine (hooks, rules, review agents, memory), so the tooling is part of the work, not a black box.
+By day I'm a System Test Technician: four years validating telecom hardware at Flex (Nokia project) and tracing failures to their root cause. I bring the same discipline to software. Every app I ship has a written spec, automated tests and a reason for each design decision.
 
-## First project: TrueRide
+## TrueRide: my own product
 
-TrueRide is an Android app for ride-hailing drivers. It reads the ride offer on screen with on-device OCR (Google ML Kit) and shows earnings per hour and per kilometre, the estimated car cost and the profit before the driver decides. The app never accepts or declines a ride.
+![TrueRide](https://raw.githubusercontent.com/Ro98ert/TrueRide/main/docs/images/hero.png)
 
-- The core modules (model, calculation, parsing) are plain Kotlin/JVM, and the build fails if they import Android.
-- Money is computed with BigDecimal. Parsing rules live as versioned data, separate from the calculation engine.
-- About 545 test files, plus an automated regression run against recorded fixtures.
+An Android assistant for ride-hailing drivers in Romania. When a ride offer appears, TrueRide reads the numbers on screen and shows what the ride really pays per kilometre and per hour, after the driver's car cost. Green, amber or red: the driver decides.
 
-The core is public at [Ro98ert/TrueRide](https://github.com/Ro98ert/TrueRide): the model, calculation, parsing and offer pipeline modules, with anonymized test fixtures and CI. The Android app stays private.
+- **Status:** the app runs and is being tested with drivers; Google Play release coming soon.
+- **Privacy first:** the screen image never leaves the phone; names and addresses are never kept; the app never taps anything for the driver.
+- **Quality:** 653 automated tests on the core, run on every change.
 
-## How I work with AI
+See the showcase and the public core: [Ro98ert/TrueRide](https://github.com/Ro98ert/TrueRide).
 
-I write the spec and make the design decisions. AI coding agents write most of the code. I review every change against the tests and a decision log, so each choice has a written reason.
+## Client work
+
+Code for these projects is private; I'm happy to walk you through them on a call.
+
+| Project | What it does for the client |
+|---|---|
+| Booking platform for independent practitioners | Online appointments, client records and a private dashboard per practitioner (web SaaS). |
+| Retail ERP for a physical store in Romania | Inventory, pricing, suppliers, sales and e-Factura (Romanian e-invoicing) in one local app. |
+
+## How I work
+
+1. **Understand the problem.** I write a short spec with you: who uses it, what must happen, what must never happen.
+2. **Build in small, tested steps.** AI coding agents write most of the code; I make the design decisions and review every change against the tests.
+3. **Show progress early.** You see working screens, not just reports.
 
 ## Data and ML
 
-These are my data analytics capstone projects. I did them by hand, without AI coding tools: the analysis, the SQL and R code and the conclusions. TrueRide is the only project here built with AI coding agents.
+These are my data analytics capstone projects. I did them by hand, without AI coding tools: the analysis, the SQL and R code and the conclusions. Unlike my app projects, these use no AI-written code.
 
 | Project | What it does | Stack |
 |---|---|---|
