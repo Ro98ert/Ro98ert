@@ -2,7 +2,7 @@
 
 I'm a System Test Technician. For four years I've validated telecom hardware at Flex (Nokia project) and traced failures back to their root cause. Software is what I build on the side: Android apps first, web apps too, and anything else worth learning.
 
-I write code with AI coding agents. I also set up and maintain the agent configuration on my own Linux machine (hooks, rules, review agents, memory), so the tooling is part of the work, not a black box.
+I build TrueRide with AI coding agents. I also set up and maintain the agent configuration on my own Linux machine (hooks, rules, review agents, memory), so the tooling is part of the work, not a black box.
 
 ## First project: TrueRide
 
@@ -18,12 +18,9 @@ Repository coming soon.
 
 I write the spec and make the design decisions. AI coding agents write most of the code. I review every change against the tests and a decision log, so each choice has a written reason.
 
-## Other software projects
-
-- [Cabinetly](https://github.com/Ro98ert/cabinetly-saas): booking SaaS for independent practitioners. Next.js 15, Supabase Postgres with row-level security, Prisma, Stripe. 62 test files.
-- [Royal Retail ERP](https://github.com/Ro98ert/royal-retail-erp): local ERP for a physical store in Romania. FastAPI and SQLite, integrated with ANAF e-Factura, the national e-invoicing system. 106 test files.
-
 ## Data and ML
+
+These are my data analytics capstone projects. I did them by hand, without AI coding tools: the analysis, the SQL and R code and the conclusions. TrueRide is the only project here built with AI coding agents.
 
 | Project | What it does | Stack |
 |---|---|---|
