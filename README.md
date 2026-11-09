@@ -12,7 +12,7 @@ TrueRide is an Android app for ride-hailing drivers. It reads the ride offer on 
 - Money is computed with BigDecimal. Parsing rules live as versioned data, separate from the calculation engine.
 - About 545 test files, plus an automated regression run against recorded fixtures.
 
-Repository coming soon.
+The core is public at [Ro98ert/TrueRide](https://github.com/Ro98ert/TrueRide): the model, calculation, parsing and offer pipeline modules, with anonymized test fixtures and CI. The Android app stays private.
 
 ## How I work with AI
 
