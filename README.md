@@ -34,7 +34,6 @@ These are my data analytics capstone projects. I did them by hand, without AI co
 | Area | Tools |
 |---|---|
 | Android | Kotlin, Jetpack Compose, Gradle, ML Kit |
-| Backend and web | Python (FastAPI), TypeScript (Next.js), Supabase, Prisma |
 | Data | SQL (Postgres, BigQuery), R, Tableau |
 | AI tooling | Claude Code, agent hooks and rules, MCP servers |
 | Testing | Telecom hardware validation, root-cause analysis, test-first development |
