@@ -50,7 +50,7 @@ Data analytics capstone projects: the analysis, the SQL and R code and the concl
 ## Certifications
 
 [![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=flat&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/UYX53RG7IQ1W)
-[![Google AI](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=flat&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/UAKM6X1NCFJI)
+[![Google AI](https://img.shields.io/badge/Google-AI-4285F4?style=flat&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/UAKM6X1NCFJI)
 
 ## Contact & Links
 
