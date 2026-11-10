@@ -42,7 +42,7 @@ Data analytics capstone projects: the analysis, the SQL and R code and the concl
 
 | Area | Tools |
 |---|---|
-| AI-assisted development | Claude Code setup (agents, skills, hooks, rules), MCP servers, APIs |
+| AI-assisted development | Claude Code, OpenAI Codex and other AI coding tools: setup and configuration (agents, skills, hooks, rules), MCP servers, APIs, multi-model workflows |
 | Data | SQL (BigQuery), R, Tableau |
 | Testing | Telecom hardware validation, root-cause analysis, test-first development |
 | Way of working | Git, Docker, Linux |
