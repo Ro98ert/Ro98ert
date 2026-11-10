@@ -49,12 +49,12 @@ Data analytics capstone projects: the analysis, the SQL and R code and the concl
 
 ## Certifications
 
-![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=flat&logo=google&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=flat&logo=google&logoColor=white)
+[![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-4285F4?style=flat&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/UYX53RG7IQ1W)
+[![Google AI](https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=flat&logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/UAKM6X1NCFJI)
 
 ## Contact & Links
 
 - **Location:** Timișoara, Romania
-- **Email:** robert.amartisoaei.98@gmail.com
+- **Email:** [robert.amartisoaei.98@gmail.com](mailto:robert.amartisoaei.98@gmail.com)
 - **LinkedIn:** [Robert Amartisoaei](https://www.linkedin.com/in/robert-a-lnkdn98)
 - **Resume:** [PDF](https://drive.google.com/file/d/1Nwg1zYfi8rexGNrt9BC1EH788LnKrub4/view?usp=drive_link)
