@@ -42,7 +42,7 @@ Data analytics capstone projects: the analysis, the SQL and R code and the concl
 
 | Area | Tools |
 |---|---|
-| Android | Kotlin, Jetpack Compose, Gradle, ML Kit |
+| AI-assisted development | Claude Code setup (agents, skills, hooks, rules), MCP servers, APIs |
 | Data | SQL (BigQuery), R, Tableau |
 | Testing | Telecom hardware validation, root-cause analysis, test-first development |
 | Way of working | Git, Docker, Linux |
