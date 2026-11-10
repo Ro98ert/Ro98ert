@@ -1,22 +1,18 @@
 # Robert Amartisoaei
 
-**I turn a real-world problem into a working app: Android and web, built fast with AI coding agents and checked by tests.**
+**I turn a real-world problem into a working app: Android and web, with a written spec and automated tests.**
 
-By day I'm a System Test Technician: four years validating telecom hardware at Flex (Nokia project) and tracing failures to their root cause. I bring the same discipline to software. Every app I ship has a written spec, automated tests and a reason for each design decision.
+I'm based in Timișoara, Romania. By day I'm a System Test Technician: four years validating telecom hardware at Flex (Nokia project) and tracing failures to their root cause. I bring the same discipline to software: every app I ship has a written spec, automated tests and a reason for each design decision. I build with AI coding agents and review every change against the tests.
 
-## TrueRide: my own product
+## Products
 
-![TrueRide](https://raw.githubusercontent.com/Ro98ert/TrueRide/main/docs/images/hero.png)
+### TrueRide
 
-An Android assistant for ride-hailing drivers in Romania. When a ride offer appears, TrueRide reads the numbers on screen and shows what the ride really pays per kilometre and per hour, after the driver's car cost. Green, amber or red: the driver decides.
+An Android assistant for ride-hailing drivers in Romania: before accepting a ride, the driver sees what it really pays per kilometre and per hour, after the car's cost. Read-only and private: the screen image never leaves the phone. In testing with drivers; Google Play release coming soon.
 
-- **Status:** the app runs and is being tested with drivers; Google Play release coming soon.
-- **Privacy first:** the screen image never leaves the phone; names and addresses are never kept; the app never taps anything for the driver.
-- **Quality:** 653 automated tests on the core, run on every change.
+Showcase and public core: [Ro98ert/TrueRide](https://github.com/Ro98ert/TrueRide)
 
-See the showcase and the public core: [Ro98ert/TrueRide](https://github.com/Ro98ert/TrueRide).
-
-## Client work
+### Client work
 
 Code for these projects is private; I'm happy to walk you through them on a call.
 
@@ -25,15 +21,9 @@ Code for these projects is private; I'm happy to walk you through them on a call
 | Booking platform for independent practitioners | Online appointments, client records and a private dashboard per practitioner (web SaaS). |
 | Retail ERP for a physical store in Romania | Inventory, pricing, suppliers, sales and e-Factura (Romanian e-invoicing) in one local app. |
 
-## How I work
+### Data analysis
 
-1. **Understand the problem.** I write a short spec with you: who uses it, what must happen, what must never happen.
-2. **Build in small, tested steps.** AI coding agents write most of the code; I make the design decisions and review every change against the tests.
-3. **Show progress early.** You see working screens, not just reports.
-
-## Data and ML
-
-These are my data analytics capstone projects. I did them by hand, without AI coding tools: the analysis, the SQL and R code and the conclusions. Unlike my app projects, these use no AI-written code.
+Data analytics capstone projects: the analysis, the SQL and R code and the conclusions are my own.
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -42,13 +32,18 @@ These are my data analytics capstone projects. I did them by hand, without AI co
 | [Bellabeat](https://github.com/Ro98ert/Bellabeat-Case-Study) | Fitbit activity and sleep analysis for a wellness brand | SQL, R |
 | [Cyclistic](https://github.com/Ro98ert/Cyclistic-Case-Study) | Five quarters of bike-share trips, casual riders vs members | SQL, R |
 
+## How I work
+
+1. **Understand the problem.** I write a short spec with you: who uses it, what must happen, what must never happen.
+2. **Build in small, tested steps.** I make the design decisions and every change must pass the tests.
+3. **Show progress early.** You see working screens, not just reports.
+
 ## Skills
 
 | Area | Tools |
 |---|---|
 | Android | Kotlin, Jetpack Compose, Gradle, ML Kit |
 | Data | SQL (BigQuery), R, Tableau |
-| AI tooling | Claude Code, agent hooks and rules, MCP servers |
 | Testing | Telecom hardware validation, root-cause analysis, test-first development |
 | Way of working | Git, Docker, Linux |
 
